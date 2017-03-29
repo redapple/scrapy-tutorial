@@ -1,0 +1,4 @@
+projects:
+  default:
+    id: 174141
+    stack: scrapy:1.3-py3
